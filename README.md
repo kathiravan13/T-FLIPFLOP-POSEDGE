@@ -44,7 +44,7 @@ Step 6: Open in RTL viewers to get RTL diagram output
 
 Developed by: KATHIRAVAN P 
 
-RegisterNumber: 212222230088
+RegisterNumber: 212222230063
 
 ```
 module ex9( input clk, rst_n, input t,
